@@ -1,5 +1,12 @@
 # @livekit/agents-plugin-runway
 
+## 1.4.6
+
+### Patch Changes
+
+- Updated dependencies [[`2eeccad1136111152a461765a71271c03c339a3b`](https://github.com/livekit/agents-js/commit/2eeccad1136111152a461765a71271c03c339a3b), [`27de4099f0bd66aa02a5aa040f00767b855742e2`](https://github.com/livekit/agents-js/commit/27de4099f0bd66aa02a5aa040f00767b855742e2), [`7ed8af73c1a893d051f533642235107f52183efc`](https://github.com/livekit/agents-js/commit/7ed8af73c1a893d051f533642235107f52183efc), [`c220cfd5a32a2eb5c0e9c0e896ea3510580a08ff`](https://github.com/livekit/agents-js/commit/c220cfd5a32a2eb5c0e9c0e896ea3510580a08ff)]:
+  - @livekit/agents@1.4.6
+
 ## 1.4.5
 
 ### Patch Changes
